@@ -11,3 +11,8 @@ Rideshare Rental Vehicle Portal is an online platform where users can book renta
 - **Pricing Information:** Users can view rental prices for different vehicles and rental periods.
 - **Return Tracking:** Users can track the time remaining until they need to return the vehicle.
 - **Profile Management:** Users can update their personal information, view booking history, and manage preferences.
+
+# Technologies Used
+Frontend: HTML, CSS, JavaScript, React.js
+Backend: Node.js, Express.js, MongoDB
+Authentication: JWT (JSON Web Tokens)
