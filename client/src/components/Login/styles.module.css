@@ -97,8 +97,7 @@
 	margin: 10px;
 }
 
-
-/* Responsive styles for mobile */
+/* Responsive style for mobile */
 
 @media (max-width: 768px) {
     .login_form_container {
